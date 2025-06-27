@@ -1,8 +1,17 @@
-## Hi there 👋
+<h1>Oh, hello there!<br/>I'm <a target='_blank' href='https://about-me-landing.vercel.app/'>deadf15h</a></h1>
+<h2>Frontend developer</h2>
+<h3>Skills:</h3>
+
+![TypeScript](https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-blue?style=for-the-badge&logo=react&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white) ![SASS](https://img.shields.io/badge/sass-pink?style=for-the-badge&logo=sass&logoColor=white)
+![CSS](https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css3&logoColor=white) ![Astro](https://img.shields.io/badge/astro-orange?style=for-the-badge&logo=astro&logoColor=white) ![Tailwind](https://img.shields.io/badge/tailwind-blue?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Telegram-bot](https://img.shields.io/badge/telegrambot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white) ![Playwright](https://img.shields.io/badge/playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Lighthouse](https://img.shields.io/badge/lighthouse-F44B21?style=for-the-badge&logo=lighthouse&logoColor=white) ![ApolloGQL](https://img.shields.io/badge/apollogql-311C87?style=for-the-badge&logo=apollographql&logoColor=white)
+
+<h4>Also learned:</h4>
+
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=CPlusPlus&logoColor=white) ![Web3](https://img.shields.io/badge/Web3-green?style=for-the-badge&logo=Web3.js&logoColor=white) ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-purple?style=for-the-badge&logo=haskell&logoColor=white)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dalogsamurai&layout=compact)](https://github.com/dalogsamurai/github-readme-stats)
 
 <!--
-**deadf15h/deadf15h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
