@@ -9,7 +9,7 @@
 
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=CPlusPlus&logoColor=white) ![Web3](https://img.shields.io/badge/Web3-green?style=for-the-badge&logo=Web3.js&logoColor=white) ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-purple?style=for-the-badge&logo=haskell&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dalogsamurai&layout=compact)](https://github.com/dalogsamurai/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dalogsamurai&layout=compact)](https://github.com/deadf15h/github-readme-stats)
 
 <!--
 Here are some ideas to get you started:
