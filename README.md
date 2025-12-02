@@ -1,5 +1,6 @@
 <h1>Oh, hello there!<br/>I'm <a target='_blank' href='https://about-me-landing.vercel.app/'>deadf15h</a></h1>
-<h2>Frontend developer</h2>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;Learning+Fullstack&font=Fira%20Code¢er=true&width=380&height=50)
+
 <h3>Skills:</h3>
 
 ![TypeScript](https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-blue?style=for-the-badge&logo=react&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white) ![SASS](https://img.shields.io/badge/sass-pink?style=for-the-badge&logo=sass&logoColor=white)
@@ -9,7 +10,7 @@
 
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=CPlusPlus&logoColor=white) ![Web3](https://img.shields.io/badge/Web3-green?style=for-the-badge&logo=Web3.js&logoColor=white) ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-purple?style=for-the-badge&logo=haskell&logoColor=white) ![Telegram-bot](https://img.shields.io/badge/telegrambot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deadf15h&layout=compact)](https://github.com/deadf15h/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deadf15h&layout=compact)](https://github.com/deadf15h/github-readme-stats) -->
 
 <!--
 Here are some ideas to get you started:
