@@ -1,5 +1,4 @@
 <h1>Oh, hello there!<br/>I'm <a target='_blank' href='https://about-me-landing.vercel.app/'>deadf15h</a></h1>
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;Learning+Fullstack&font=Fira%20Code¢er=true&width=380&height=50)
 
 <h3>Skills:</h3>
 
